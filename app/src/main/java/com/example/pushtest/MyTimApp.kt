@@ -1,4 +1,4 @@
-package com.example.pushtest.ui
+package com.example.pushtest
 
 import androidx.compose.animation.core.Animatable
 import androidx.compose.animation.core.tween
